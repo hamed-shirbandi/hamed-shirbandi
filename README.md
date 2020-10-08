@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #### Who is Hamed?
-Hamed Shirbandi is a programmer. He currently live in Tehran/Iran and works on .Net Core Project Specially. He loves software development technologies such BlockChain, MicroService, CQRS, DDD and so on. Hamed is so experienced in software Design and one of his successfull project is PAYDAR SMART CITY that makes money for many iranian people those who were looking for a job.
+Hamed Shirbandi is a programmer. He currently live in Tehran/Iran and works on .Net Core Projects Specially. He loves software development technologies such BlockChain, MicroService, CQRS, DDD and so on. Hamed is so experienced in software Design and one of his successfull project is PAYDAR SMART CITY that makes money for many iranian people those who were looking for a job.
 
 #### Find me around the web :
 
