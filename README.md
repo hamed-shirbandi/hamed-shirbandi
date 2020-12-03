@@ -17,6 +17,7 @@ Hamed Shirbandi is a programmer. He currently lives in Tehran/Iran and works on 
 
 #### Find me around the web :
 
-[![personal blog](http://www.codeblock.ir/Content/site/images/blog/blog.png)](http://www.codeblock.ir/)
+[![personal blog](http://www.codeblock.ir/Content/site/images/blog/Blog.png)](http://www.codeblock.ir/)
 [![linkedin](http://www.codeblock.ir/Content/site/images/blog/linkedin_ic.png)](https://www.linkedin.com/in/hamed-shirbandi)
-
+[![nuget](http://www.codeblock.ir/Content/site/images/blog/nuget_ic.png)](https://www.nuget.org/profiles/hamed-shirbandi)
+[![email](http://www.codeblock.ir/Content/site/images/blog/Gmail-ic.png)](mailto:hamed.shirbandi@gmail.com)
