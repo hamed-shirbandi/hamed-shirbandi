@@ -11,13 +11,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 #### Who is Hamed?
-Hamed Shirbandi is a programmer. He currently lives in Tehran/Iran and works on .Net Core Projects Specially. He loves software development technologies such BlockChain, MicroService, CQRS, DDD and so on. Hamed is so experienced in software Design and one of his successfull project is APPOLO SMART CITY that makes money for many iranian people those who were looking for a job.
+-->
+I am a .Net developer. Currently i'm free to work and like to work remotely. please Look at my repositories and if you think we can work together just let me know.
 
 #### Find me around the web :
 
-[![personal blog](http://www.codeblock.ir/Content/site/images/blog/Blog.png)](http://www.codeblock.ir/)
+[![personal blog](http://www.codeblock.ir/Content/site/images/blog/Blog.png)](http://www.codeblock.ir)
 [![linkedin](http://www.codeblock.ir/Content/site/images/blog/linkedin_ic.png)](https://www.linkedin.com/in/hamed-shirbandi)
 [![nuget](http://www.codeblock.ir/Content/site/images/blog/nuget_ic.png)](https://www.nuget.org/profiles/hamed-shirbandi)
 [![email](http://www.codeblock.ir/Content/site/images/blog/Gmail-ic.png)](mailto:hamed.shirbandi@gmail.com)
+[![github](http://www.codeblock.ir/Content/site/images/blog/github_ic.jpg)](https://github.com/hamed-shirbandi)
+[![instagram](http://www.codeblock.ir/Content/site/images/blog/instagram.png)](https://www.instagram.com/hamedshirbandi)
