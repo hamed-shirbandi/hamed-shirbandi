@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 #### Who is Hamed?
 -->
-I am a .Net developer. Currently i'm free to work and like to work remotely. please Look at my repositories and if you think we can work together just let me know.
+I am a .Net developer. Currently i'm free and like to work remotely. If you think we can work together so just let me know.
 
 #### Find me around the web :
 
