@@ -17,7 +17,7 @@ I am a .Net developer. Currently i'm free and like to work remotely. If you thin
 
 #### Find me around the web :
 
-[![personal blog](http://www.codeblock.ir/Content/site/images/blog/Blog.png)](http://www.codeblock.ir)
+[![personal blog](http://www.codeblock.ir/Content/site/images/blog/Medium5.png)](https://medium.com/@hamed.shirbandi)
 [![linkedin](http://www.codeblock.ir/Content/site/images/blog/linkedin_ic.png)](https://www.linkedin.com/in/hamed-shirbandi)
 [![nuget](http://www.codeblock.ir/Content/site/images/blog/nuget_ic.png)](https://www.nuget.org/profiles/hamed-shirbandi)
 [![email](http://www.codeblock.ir/Content/site/images/blog/Gmail-ic.png)](mailto:hamed.shirbandi@gmail.com)
