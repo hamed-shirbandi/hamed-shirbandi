@@ -1,5 +1,8 @@
+I am a .NET Back-End developer with over 8 years of experience who's passionate about learning new technologie
+I specialize in web development and have professional experience working with C#, ASP.NET MVC, ASP.NET Web API, Blazor.
+I also have good knowledge in DDD, CQRS, ES, Microservices.
 
-I am a .Net developer. Currently i'm free and like to work remotely. If you think we can work together so just let me know.
+> Currently i'm free and like to work remotely. If you think we can work together so just let me know.
 
 #### Find me around the web :
 
