@@ -1,4 +1,4 @@
-I am a .NET Back-End developer with over 8 years of experience who's passionate about learning new technologie
+I am a .NET Back-End developer with over 8 years of experience who's passionate about learning new technologies.
 I specialize in web development and have professional experience working with C#, ASP.NET MVC, ASP.NET Web API, Blazor.
 I also have good knowledge in DDD, CQRS, ES, Microservices, TDD.
 
