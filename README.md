@@ -3,6 +3,9 @@ I specialize in web development and have professional experience working with C#
 I also have good knowledge in DDD, CQRS, ES, Microservices, TDD.
 
 > Currently i'm free and like to work remotely. If you think we can work together so just let me know.
+> 
+> Have a look on my [`Resume`](https://app.flowcv.io/resume-feedback/V85zEoBKDjDjwYPQ8eEA3)
+
 
 #### Find me around the web :
 
