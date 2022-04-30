@@ -2,7 +2,7 @@ I am a .NET Back-End developer with over 8 years of experience who's passionate 
 I specialize in web development and have professional experience working with C#, ASP.NET MVC, ASP.NET Web API, Blazor.
 I also have good knowledge in DDD, TDD, BDD, CQRS, Event Sourcing, Microservices.
 
-> Currently i'm free and like to work remotely. If you think we can work together so just let me know.
+> Currently, I'm free and looking for a good team to join. If you think we can work together, so just let me know.
 > 
 > Have a look on my [Resume](https://app.flowcv.io/resume-feedback/V85zEoBKDjDjwYPQ8eEA3)
 
