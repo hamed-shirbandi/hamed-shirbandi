@@ -1,4 +1,4 @@
-With over 8 years of experience in Software development. I am a Software Engineer passionate for Software design & Architecture (specially DDD, CQRS, Event Sourcing & Microservices) and Agile practices such as TDD and BDD with an in depth knowledge of OOP, Design Patterns and SOLID Principles.
+With over 8 years of experience in Software development, I am a Software Engineer passionate for Software design & Architecture (specially DDD, CQRS, Event Sourcing & Microservices) and Agile practices such as TDD and BDD with an in depth knowledge of OOP, Design Patterns and SOLID Principles.
 
 <img alt="Hire Me!" src="https://github.com/hamed-shirbandi/hamed-shirbandi/blob/main/docs/hire-me-v1.png" width="100">
 Currently, I'm free and looking for a good team to join. If you think we can work together, so just let me know.</br>
