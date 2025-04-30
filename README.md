@@ -1,4 +1,4 @@
-With over 8 years of experience in Software development, I am a Software Engineer passionate for Software design & Architecture (specially DDD, CQRS, Event Sourcing & Microservices) and Agile practices such as TDD and BDD with an in depth knowledge of OOP, Design Patterns and SOLID Principles.
+With over 10 years of experience in Software development, I am a Software Engineer passionate for Software design & Architecture (specially DDD, CQRS, Event Sourcing & Microservices) and Agile practices such as TDD and BDD with an in depth knowledge of OOP, Design Patterns and SOLID Principles.
 
 #### Find me around the web :
 
